@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Contact-Web-App/static/css/main.83d1d4f5.css",
-    "main.js": "/Contact-Web-App/static/js/main.1a28df12.js",
+    "main.js": "/Contact-Web-App/static/js/main.cfc7296e.js",
     "static/media/Spinner.gif": "/Contact-Web-App/static/media/Spinner.5b35cef0ce49e2af8525.gif",
     "static/media/no-found.gif": "/Contact-Web-App/static/media/no-found.8a3fe9fd54d21c85d260.gif",
     "static/media/man-taking-note.png": "/Contact-Web-App/static/media/man-taking-note.578e1679689f39584d15.png",
     "index.html": "/Contact-Web-App/index.html",
     "main.83d1d4f5.css.map": "/Contact-Web-App/static/css/main.83d1d4f5.css.map",
-    "main.1a28df12.js.map": "/Contact-Web-App/static/js/main.1a28df12.js.map"
+    "main.cfc7296e.js.map": "/Contact-Web-App/static/js/main.cfc7296e.js.map"
   },
   "entrypoints": [
     "static/css/main.83d1d4f5.css",
-    "static/js/main.1a28df12.js"
+    "static/js/main.cfc7296e.js"
   ]
 }
